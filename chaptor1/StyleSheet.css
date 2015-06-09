@@ -1,0 +1,21 @@
+﻿body {
+}
+a{
+    text-decoration:none;
+}
+ul{
+    list-style:none;   
+}
+ul .level2{
+    text-align:left;
+}
+.level1{
+    float:left;
+    border:1px solid;
+}
+.level1 a{
+    margin:0 20px;
+}
+.level2{
+    display:none;
+}
